@@ -14,3 +14,5 @@ Key Features:
 
    
 ![Screenshot 2024-06-07 015743](https://github.com/Juhikumari134/JAVASCRIPT-PROJECTS/assets/134398207/fa33dcae-8246-4fcd-b56b-549cb02a544a)
+
+![Screenshot 2024-06-07 020246](https://github.com/Juhikumari134/JAVASCRIPT-PROJECTS/assets/134398207/5831a1f5-d6e7-4cf3-80b7-e0a562d33f9c)
